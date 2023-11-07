@@ -25,7 +25,7 @@ function AppHeader() {
         value={filterStatus}
         onChange={(e) => updateFilter(e)}
       >
-        <option value="all">ALL</option>
+        <option value="all">All</option>
         <option value="incomplete">Incomplete</option>s
         <option value="complete">Complete</option>
       </SelectButton>
