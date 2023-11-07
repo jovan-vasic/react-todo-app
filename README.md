@@ -1,12 +1,8 @@
-# React Todo App.
-
-## Getting Started
+# React Todo App
 
 ```shell
 npm install
 ```
-
-and after that start the dev server.
 
 ```shell
 npm start
